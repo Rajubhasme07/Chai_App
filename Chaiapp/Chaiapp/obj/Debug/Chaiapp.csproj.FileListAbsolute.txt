@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.Form1.resources
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.Properties.Resources.resources
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chaiapp\Chaiapp\bin\Debug\Chaiapp.exe.config
+C:\Users\User\source\repos\Chaiapp\Chaiapp\bin\Debug\Chaiapp.exe
+C:\Users\User\source\repos\Chaiapp\Chaiapp\bin\Debug\Chaiapp.pdb
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.exe
+C:\Users\User\source\repos\Chaiapp\Chaiapp\obj\Debug\Chaiapp.pdb
